@@ -14,3 +14,5 @@
 
 - Train Test Split
 
+- Train the model
+
