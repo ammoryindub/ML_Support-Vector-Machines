@@ -8,7 +8,7 @@
   
 - Import libraries
 
-- Get data
+- Get the dataset
 
 - EDA
 
