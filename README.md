@@ -16,3 +16,5 @@
 
 - Train the model
 
+- Model evaluation 
+
