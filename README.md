@@ -18,5 +18,7 @@
 
 - Model evaluation
 
-- Grid search practice 
+- Grid search practice
+
+- Predictions and evaluations 
 
