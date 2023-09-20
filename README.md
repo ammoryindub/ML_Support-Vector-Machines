@@ -16,5 +16,7 @@
 
 - Train the model
 
-- Model evaluation 
+- Model evaluation
+
+- Grid search practice 
 
